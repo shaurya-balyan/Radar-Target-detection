@@ -1,0 +1,27 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Data and Artifacts
+data/
+*.h5
+*.pth
+*.pt
+*.onnx
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Streamlit
+.streamlit/
+
+# OS artifacts
+Thumbs.db
+.DS_Store
